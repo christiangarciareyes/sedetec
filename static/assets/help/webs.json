@@ -1,0 +1,56 @@
+[
+  {
+    "uid": "01",
+    "url": "https://ventanillajurisdiccional.sedetc.gob.pe/#/",
+    "name": "Ventanilla Virtual",
+    "description": "Lorem ipsum dolor sit amet, consectetur adip",
+    "icon": "/assets/icons/ventanilla.svg",
+    "iconColor": "#11776F",
+    "color": "#F0FDFA"
+  },
+  {
+    "uid": "02",
+    "url": "#",
+    "name": "Asistencia única",
+    "icon": "/assets/icons/asistencia_unica.svg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adip",
+    "iconColor": "#6E29D9",
+    "color": "#F5F3FF"
+  },
+  {
+    "uid": "03",
+    "url": "https://concursos.sedetc.gob.pe/#/",
+    "name": "Sistema de Concursos",
+    "icon": "/assets/icons/concurso.svg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adip",
+    "iconColor": "#056AA2",
+    "color": "#F0F9FF"
+  },
+  {
+    "uid": "04",
+    "url": "#",
+    "name": "Gobierno abierto",
+    "icon": "/assets/icons/gobierno_abierto.svg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adip",
+    "iconColor": "#B45309",
+    "color": "#FFFBEB"
+  },
+  {
+    "uid": "05",
+    "url": "https://jurisprudencia.sedetc.gob.pe/",
+    "name": "Portal de Jurisprudencia",
+    "icon": "/assets/icons/jurisprudencia.svg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adip",
+    "iconColor": "#BE123C",
+    "color": "#FFF1F2"
+  },
+  {
+    "uid": "06",
+    "url": "https://aulavirtual.sedetc.gob.pe/",
+    "name": "Aula Virtual",
+    "icon": "/assets/icons/aula_virtual.svg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adip",
+    "iconColor": "#4F45CE",
+    "color": "#EEF2FF"
+  }
+]
